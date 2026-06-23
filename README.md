@@ -11,8 +11,8 @@ https://docs.google.com/spreadsheets/d/1R1ZBoLToWQWvVqcZKgtLwz3XrvVvjK8_aSqWcDiu
 Задача — сопоставить их: на листе 1 в столбце C поставить значения с листа 2 столбца B.
 https://docs.google.com/spreadsheets/d/1SnwyNSrKlU4AiwFTBADo3WC8zNC9QNBRB4OZXZo_UpY/edit?gid=0#gid=0
 
-3. Итоговую стоимость закупки нужно принять за 100%. Суммы по каждому товару нужно пересчитать в процентах от итоговой суммы.
-https://docs.google.com/spreadsheets/d/1-0Iu6qewX6XmMF0CI6jdTbx5XMVq4gFXcHVX_l3fkO4/edit?usp=sharing
+  
+3. Итоговую стоимость закупки нужно принять за 100%. Суммы по каждому товару нужно пересчитать в процентах от итоговой суммы. https://docs.google.com/spreadsheets/d/1-0Iu6qewX6XmMF0CI6jdTbx5XMVq4gFXcHVX_l3fkO4/edit?usp=sharing
 
 
 
