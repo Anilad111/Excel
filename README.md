@@ -1,6 +1,8 @@
 # Excel
 Примеры работа в экселе.
+
 Задания:
+
 1*. В столбце Н заполнить соответствующие ячейки с наименованием каждого элемента по следующей логике составления:
 Название марка длина
 https://docs.google.com/spreadsheets/d/1R1ZBoLToWQWvVqcZKgtLwz3XrvVvjK8_aSqWcDiu0b4/edit?usp=sharing
